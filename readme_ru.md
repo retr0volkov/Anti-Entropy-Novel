@@ -26,7 +26,7 @@
 
 Для удобства разработки сделан PowerShell скрипт `Compile.ps1`. 
 
-#### Usage:
+#### Использование:
 `./Complie` - копирует файлы игры в папку `Output`.
 
 `./Compile /A` - дополнительно, создает/обновляет архив в папке `Output`.
@@ -34,7 +34,7 @@
 `./Compile /B` - дополнительно, компилирует `WebServer` для релиза, минимизирует.
 
 Аргументы не чувствительны к регистру. Аргументы можно комбинировать.
-## Credit
+## Благдоарность
 
 * [miHoYo](https://www.mihoyo.com)
 * [Переводчики Abyss lab](https://github.com/sakura-knoll/abyss-lab#translation-attributions) 
