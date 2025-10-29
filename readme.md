@@ -7,7 +7,7 @@ Russian translation of Anti Entropy Beta novel by miHoYo.
 #### Current progress: 0%
 ## How to play
 
-Go to ae.retr0volkov.ru
+Go to [ae.retr0volkov.ru](https://ae.retr0volkov.ru)
 
 If you want, you can clone into repo and host Game folder (as web, not available as file due to CORS)
 
